@@ -23,7 +23,13 @@ public class TuinDomotica {
         return slimmeschakelaar;
     }
 
-    public void setSlimmeschakelaar(schakelaar slimmeschakelaar) {
+    public void setSlimmeschakelaar(Schakelaar slimmeschakelaar) {
         this.slimmeschakelaar = slimmeschakelaar;
     }
+
+	public Schakelaar getSlimmeSchakelaar() {
+		return slimmeschakelaar;
+	}
+
+	
 }
