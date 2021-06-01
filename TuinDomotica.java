@@ -26,10 +26,4 @@ public class TuinDomotica {
     public void setSlimmeschakelaar(Schakelaar slimmeschakelaar) {
         this.slimmeschakelaar = slimmeschakelaar;
     }
-
-	public Schakelaar getSlimmeSchakelaar() {
-		return slimmeschakelaar;
-	}
-
-	
 }
